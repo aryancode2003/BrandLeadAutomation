@@ -72,9 +72,9 @@ LOG_FILE = "usage_logs.csv"
 
 # SET YOUR PASSWORDS HERE
 USER_DATABASE = {
-    "anshul@company.com": {"password": "admin", "role": "superadmin", "brand": "ALL"},
-    "fatafat@brand.com": {"password": "123", "role": "user", "brand": "FATAFAT"},
-    "jugnoo@brand.com": {"password": "123", "role": "user", "brand": "JUGNOO"},
+    "aryan.srivastava@jungleworks.com": {"password": "admin", "role": "superadmin", "brand": "ALL"},
+    "aryan.srivastava@jungleworks.com": {"password": "Fatafat123", "role": "user", "brand": "FATAFAT"},
+    "anshul.mehra@jungleworks.com": {"password": "Jugnoo123", "role": "user", "brand": "JUGNOO"},
     "spark@brand.com": {"password": "123", "role": "user", "brand": "SPARK STUDIO"}
 }
 
