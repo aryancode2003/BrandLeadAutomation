@@ -75,7 +75,7 @@ USER_DATABASE = {
     "aryan@jungleworks.com": {"password": "admin", "role": "superadmin", "brand": "ALL"},
     "aryan.srivastava@jungleworks.com": {"password": "Fatafat123", "role": "user", "brand": "FATAFAT"},
     "anshul.mehra@jungleworks.com": {"password": "Jugnoo123", "role": "user", "brand": "JUGNOO"},
-    "spark@brand.com": {"password": "123", "role": "user", "brand": "SPARK STUDIO"}
+    "riya.arora@jungleworks.com": {"password": "Solobeauty123", "role": "user", "brand": "SOLO BEAUTY"}
 }
 
 DEFAULT_BRANDS = {
@@ -136,7 +136,9 @@ DEFAULT_BRANDS = {
             "Ayodhya", "Haldia", "Khordha", "Bagodar"
         ]
     },
-    "SOLO BEAUTY": {"name": "SOLO BEAUTY", "lost_cities": [
+    "SOLO BEAUTY": {
+        "name": "SOLO BEAUTY", 
+        "lost_cities": [
         "Hozabad", "Deoria", "Rajkot", "Ajmer", "Udham Singh Nagar", "Rudrapur", "Nagpur", "Bhopal", "Navi Mumbai", "Panipat", "Bhubaneswar", "Gwalior", "Jammu", "Ghaziabad", "Agra", "Jabalpur", "Mathura", "Jalandhar", "Noida", "Secunderabad", "Muzaffarpur", "Asansol", "Silchar", "Mandi", "Ayodhya", "Balasore", "Zirakpur", "Patna", "Etawah", "Kolkata", "South Kolkata", "East Kolkata", "Pune", "Vadodara", "Vijayawada", "Allahabad", "Muzaffarnagar", "Lucknow", "Varanasi", "Jodhpur", "Indore", "Udaipur", "Guntur", "Gorakhpur", "Kashipur", "Gurgaon", "Amritsar", "Hyderabad", "Jaipur", "Kanpur", "Bhagalpur", "Sonipat", "Ahmedabad", "Orai", "Bharatpur", "Firozabad", "Vapi"
     ]}
 }
