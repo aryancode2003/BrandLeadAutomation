@@ -136,7 +136,9 @@ DEFAULT_BRANDS = {
             "Ayodhya", "Haldia", "Khordha", "Bagodar"
         ]
     },
-    "SPARK STUDIO": {"name": "SPARK STUDIO", "lost_cities": []}
+    "SOLO BEAUTY": {"name": "SOLO BEAUTY", "lost_cities": [
+        "Hozabad", "Deoria", "Rajkot", "Ajmer", "Udham Singh Nagar", "Rudrapur", "Nagpur", "Bhopal", "Navi Mumbai", "Panipat", "Bhubaneswar", "Gwalior", "Jammu", "Ghaziabad", "Agra", "Jabalpur", "Mathura", "Jalandhar", "Noida", "Secunderabad", "Muzaffarpur", "Asansol", "Silchar", "Mandi", "Ayodhya", "Balasore", "Zirakpur", "Patna", "Etawah", "Kolkata", "South Kolkata", "East Kolkata", "Pune", "Vadodara", "Vijayawada", "Allahabad", "Muzaffarnagar", "Lucknow", "Varanasi", "Jodhpur", "Indore", "Udaipur", "Guntur", "Gorakhpur", "Kashipur", "Gurgaon", "Amritsar", "Hyderabad", "Jaipur", "Kanpur", "Bhagalpur", "Sonipat", "Ahmedabad", "Orai", "Bharatpur", "Firozabad", "Vapi"
+    ]}
 }
 
 if not os.path.exists(CONFIG_FILE):
